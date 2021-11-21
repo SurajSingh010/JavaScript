@@ -9,7 +9,7 @@ machine (“host environment”).
 *  JavaScript was created to make webpages more dynamic (e.g. change content on a 
 page directly from inside the browser).
 
-* JavaScript is totally independent from Java and has nothing in common with JavaThis video Beautifully explains about JS code execution which in the future will be very helpful understanding concepts like "hoisting"
+* JavaScript is totally independent from Java and has nothing in common with Java.
 
 > **How js is executed?**
 
