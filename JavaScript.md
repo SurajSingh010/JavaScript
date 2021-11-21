@@ -89,7 +89,7 @@ case "green":
     console.log("Trees are green");
 		break;    
 default:
-    console.log("Trees are en unknown colour");    
+    console.log("Trees are of unknown colour");    
 }
 ```
 <p>So instead of writing 3 if statements and an else statement, we can just write a switch statement that reduces the amount of code we need to write. In this example, the switch statement evaluates the variable “trees” and runs code depending on what it equals. If it does not equal any of the supplied cases, it falls back to the default case.</p>
