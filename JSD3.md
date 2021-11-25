@@ -11,7 +11,7 @@ Promise object has four states -
 - **Pending** - Initial state of promise. This state represents that the promise has neither been fulfilled nor been rejected, it is in the pending state.
 - **Fulfilled** - This state represents that the promise has been fulfilled, meaning the async operation is completed.
 
-* Rejected - This state represents that the promise has been rejected for some reason, meaning the async operation has failed.
+- **Rejected** - This state represents that the promise has been rejected for some reason, meaning the async operation has failed.
 
 **i) resolve:** is a function that will be called, when the async operation has been successfully completed.
 
